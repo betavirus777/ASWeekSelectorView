@@ -1,4 +1,4 @@
-# `ASWeekSelectorView`
+# `ASWeekSelectorViews
 
 [![CocoaPod badge w/ Platform](http://cocoapod-badges.herokuapp.com/p/ASWeekSelectorView/badge.png)](http://cocoadocs.org/docsets/ASWeekSelectorView)
 [![Travis build status](https://travis-ci.org/nighthawk/ASWeekSelectorView.svg?branch=master)](https://travis-ci.org/nighthawk/ASWeekSelectorView)
